@@ -1,0 +1,55 @@
+@font-face {
+    font-family: "Etna Sans Serif";
+    src: url(../fonts/etna-free-font.otf);
+}
+header {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    background-color: black;
+    height: auto;
+}
+#header {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;            
+    padding: 20px;
+}
+.header-image {
+    margin: 0px;
+    padding: 40px;
+    width: 250px;
+}
+section {
+    height: 600px;
+    padding: 30px;
+}
+body {
+    background-image: url(../img/georgygirl-texture-318907.jpg);
+    background-repeat: no-repeat;
+    width: fit-content;
+    height: auto;
+}
+p {
+    font-family: "Etna Sans Serif";
+    color: white;
+}
+a {
+    font-family: "Etna Sans Serif";
+    color: white;
+}
+nav ul {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 15px;            
+    list-style: none;     
+    margin: 0;
+    padding: 0;
+}
+nav ul li {
+    display: inline;
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+}
