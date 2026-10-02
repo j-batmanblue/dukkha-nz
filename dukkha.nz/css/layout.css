@@ -26,6 +26,7 @@ section {
 }
 body {
     background-image: url(../img/georgygirl-texture-318907.jpg);
+    width: fit-content;
     height: auto;
 }
 p {
