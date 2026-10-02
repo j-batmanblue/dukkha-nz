@@ -10,6 +10,7 @@ header {
 }
 .header-image {
     width: 250px;
+    float: left;
 }
 section {
     height: 600px;
