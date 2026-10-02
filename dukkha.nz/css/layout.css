@@ -1,4 +1,7 @@
-
+@font-face {
+    font-family: "Etna Sans Serif";
+    src: url(../fonts/etna-free-font.otf);
+}
 header {
     position: sticky;
     top: 0;
