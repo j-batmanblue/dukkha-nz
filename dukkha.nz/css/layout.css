@@ -17,7 +17,8 @@ body {
     height: auto;
     background-repeat: no-repeat;
 }
-header p {
+header p, header nav a {
     font: Arial;
     color: white;
+    display: inline;
 }
