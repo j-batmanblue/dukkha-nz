@@ -4,9 +4,7 @@ header {
     top: 0;
     z-index: 1000;
     background-color: black;
-}
-.header {
-    display: inline;
+    height: auto;
 }
 .header-image {
     margin: 0px;
