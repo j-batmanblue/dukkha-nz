@@ -31,4 +31,6 @@ a {
 nav ul li {
     display: inline;
     text-decoration: none;
+    margin: 0px;
+    padding: 0px;
 }
