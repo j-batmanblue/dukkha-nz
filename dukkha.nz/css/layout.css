@@ -13,7 +13,7 @@ section {
     padding: 30px;
 }
 body {
-    background-image: linear-gradient(to bottom, #000000, #444444);
+    background-image: linear-gradient(to bottom, #444444, #111111);
     height: auto;
     background-repeat: no-repeat;
 }
