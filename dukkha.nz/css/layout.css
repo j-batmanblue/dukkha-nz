@@ -12,3 +12,8 @@ section {
     height: 600px;
     padding: 30px;
 }
+body {
+    background-image: linear-gradient(to bottom, #000000, #444444);
+    height: auto;
+    background-repeat: no-repeat;
+}
