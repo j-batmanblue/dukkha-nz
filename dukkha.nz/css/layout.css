@@ -9,6 +9,8 @@ header {
     display: inline;
 }
 .header-image {
+    margin: 0px;
+    padding 40px;
     width: 250px;
     float: left;
 }
