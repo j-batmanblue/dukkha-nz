@@ -17,3 +17,7 @@ body {
     height: auto;
     background-repeat: no-repeat;
 }
+header p {
+    font: Arial;
+    color: white;
+}
