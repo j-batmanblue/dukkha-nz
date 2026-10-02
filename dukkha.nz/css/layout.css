@@ -20,7 +20,7 @@ body {
     height: auto;
     background-repeat: no-repeat;
 }
-header p, header nav a {
+header nav {
     font: Arial;
     color: white;
     text-align: left;
