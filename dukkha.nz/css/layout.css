@@ -28,6 +28,7 @@ a {
     color: white;
 }
 nav ul {
+    align-items: center;
     display: inline;
     text-decoration: none;
     margin: 0px;
