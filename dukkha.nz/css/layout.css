@@ -29,5 +29,6 @@ a {
     color: white;
 }
 nav ul li {
+    display: inline;
     text-decoration: none;
 }
