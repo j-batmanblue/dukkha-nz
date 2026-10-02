@@ -23,4 +23,5 @@ body {
 header p, header nav a {
     font: Arial;
     color: white;
+    text-align: left;
 }
