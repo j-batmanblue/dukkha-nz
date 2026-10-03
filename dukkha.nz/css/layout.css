@@ -31,7 +31,7 @@ body {
     height: auto;
 }
 p {
-    font: "Arial";
+    font-family: "Arial";
     color: white;
 }
 a {
@@ -39,7 +39,7 @@ a {
     color: white;
 }
 h1 {
-    font: "Etna Sans Serif";
+    font-family: "Etna Sans Serif";
     color: white;
 }
 nav ul {
