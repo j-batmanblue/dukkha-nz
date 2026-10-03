@@ -61,3 +61,7 @@ nav ul li {
     text-align: center;
     font-size: 300%;
 }
+hr {
+    clear: both;
+    visibility: hidden;
+}
