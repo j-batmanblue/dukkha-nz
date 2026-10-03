@@ -31,11 +31,15 @@ body {
     height: auto;
 }
 p {
-    font-family: "Etna Sans Serif";
+    font: "Arial";
     color: white;
 }
 a {
-    font-family: "Etna Sans Serif";
+    font-family: "Arial";
+    color: white;
+}
+h1 {
+    font: "Etna Sans Serif";
     color: white;
 }
 nav ul {
